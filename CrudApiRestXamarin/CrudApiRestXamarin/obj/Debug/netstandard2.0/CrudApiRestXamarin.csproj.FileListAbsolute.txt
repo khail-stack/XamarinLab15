@@ -1,0 +1,16 @@
+C:\Users\Usuario\source\repos\CrudApiRestXamarin\CrudApiRestXamarin\CrudApiRestXamarin\bin\Debug\netstandard2.0\CrudApiRestXamarin.deps.json
+C:\Users\Usuario\source\repos\CrudApiRestXamarin\CrudApiRestXamarin\CrudApiRestXamarin\bin\Debug\netstandard2.0\CrudApiRestXamarin.dll
+C:\Users\Usuario\source\repos\CrudApiRestXamarin\CrudApiRestXamarin\CrudApiRestXamarin\obj\Debug\netstandard2.0\CrudApiRestXamarin.csprojAssemblyReference.cache
+C:\Users\Usuario\source\repos\CrudApiRestXamarin\CrudApiRestXamarin\CrudApiRestXamarin\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Usuario\source\repos\CrudApiRestXamarin\CrudApiRestXamarin\CrudApiRestXamarin\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Usuario\source\repos\CrudApiRestXamarin\CrudApiRestXamarin\CrudApiRestXamarin\obj\Debug\netstandard2.0\CrudApiRestXamarin.AssemblyInfoInputs.cache
+C:\Users\Usuario\source\repos\CrudApiRestXamarin\CrudApiRestXamarin\CrudApiRestXamarin\obj\Debug\netstandard2.0\CrudApiRestXamarin.AssemblyInfo.cs
+C:\Users\Usuario\source\repos\CrudApiRestXamarin\CrudApiRestXamarin\CrudApiRestXamarin\bin\Debug\netstandard2.0\ref\CrudApiRestXamarin.dll
+C:\Users\Usuario\source\repos\CrudApiRestXamarin\CrudApiRestXamarin\CrudApiRestXamarin\bin\Debug\netstandard2.0\CrudApiRestXamarin.pdb
+C:\Users\Usuario\source\repos\CrudApiRestXamarin\CrudApiRestXamarin\CrudApiRestXamarin\obj\Debug\netstandard2.0\View\PersonListPage.xaml.g.cs
+C:\Users\Usuario\source\repos\CrudApiRestXamarin\CrudApiRestXamarin\CrudApiRestXamarin\obj\Debug\netstandard2.0\View\PersonPage.xaml.g.cs
+C:\Users\Usuario\source\repos\CrudApiRestXamarin\CrudApiRestXamarin\CrudApiRestXamarin\obj\Debug\netstandard2.0\CrudApiRestXamarin.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\CrudApiRestXamarin\CrudApiRestXamarin\CrudApiRestXamarin\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Usuario\source\repos\CrudApiRestXamarin\CrudApiRestXamarin\CrudApiRestXamarin\obj\Debug\netstandard2.0\CrudApiRestXamarin.dll
+C:\Users\Usuario\source\repos\CrudApiRestXamarin\CrudApiRestXamarin\CrudApiRestXamarin\obj\Debug\netstandard2.0\ref\CrudApiRestXamarin.dll
+C:\Users\Usuario\source\repos\CrudApiRestXamarin\CrudApiRestXamarin\CrudApiRestXamarin\obj\Debug\netstandard2.0\CrudApiRestXamarin.pdb

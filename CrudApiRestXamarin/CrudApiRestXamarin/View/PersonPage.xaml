@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="CrudApiRestXamarin.View.PersonPage">
+    <ContentPage.Content>
+        <StackLayout Margin="20">
+            <Label Text="Nombre" />
+            <Entry Text="{Binding Path=nombre}" 
+               x:Name="EntNombre"
+               Placeholder="Ingrese nombre" />
+
+            <Label Text="Apellido" />
+            <Entry Text="{Binding Path=apellido}"
+               x:Name="EntApellido"
+               Placeholder="Ingrese apellido" />
+
+            <Label Text="Fecha de nacimiento" />
+            <Entry Text="{Binding Path=fecha_nacimiento}"
+               x:Name="EntFechaNac"
+               Placeholder="Ingrese fecha de nacimiento" />
+
+            <Label Text="Edad" />
+            <Entry Text="{Binding Path=edad}"
+               x:Name="EntEdad"
+               Placeholder="Ingrese edad" />
+
+            <Button Text="Guardar" 
+                Clicked="OnSaveButtonClicked" />
+
+            <Button Text="Delete"
+                Clicked="OnDeleteButtonClicked" />
+
+            <Button Text="Cancel" 
+                Clicked="OnCancelButtonClicked" />
+
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>
